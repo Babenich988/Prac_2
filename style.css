@@ -1,0 +1,116 @@
+body{
+    width: 1440px;
+    height: 3770px;
+}
+
+/*навигация*/
+li{
+    list-style: none;
+}
+
+.navigation{
+    display: flex;
+    justify-content: center;
+
+}
+
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo{
+    width: 50px;
+    height: 61px;
+    position: relative;
+    right: 210px;
+}
+
+.main a{
+    text-decoration: none;
+    color: black;
+    font-family: "Kulim Park";
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 24px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    padding: 30px;
+    position: relative;
+    right: 380px;
+}
+
+.name_logo{
+    font-family: "Kulim Park";
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 10px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    position: relative;
+    right:249px;
+    top:30px;
+}
+
+.helping{
+    position: relative;
+    left:185px;
+    width: 216px;
+    height: 41px;
+    border-radius: 50px;
+    border-width: 1px;
+    font-size: 18px;
+}
+/*header*/
+.Africa{
+    width: 1320px;
+
+    border-radius: 50px;
+}
+
+.save{
+    font-family: "Kulim Park";
+    font-weight: 600;
+    font-style: Bold;
+    font-size: 100px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    position: relative;
+    bottom: 1050px;
+    left: 30px;
+    width: 900px;
+    color: white;
+}
+
+.protection{
+    font-family: "Kulim Park";
+    font-weight: 600;
+    font-style: Bold;
+    font-size: 30px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    position: relative;
+    bottom: 1150px;
+    left: 850px;
+    width: 450px;
+    color: white;
+}
+
+.help{
+    font-family: "Kulim Park";
+    font-weight: 275;
+    font-style: ExtraLight;
+    font-size: 30px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    height: 200px;
+    width: 200px;
+    border-radius: 990px;
+    background-color: white;
+    color: orange;
+    border: 1px solid rgba(255, 255, 255, 1);
+    position: relative;
+    bottom :800px;
+    left: 600px;
+}
