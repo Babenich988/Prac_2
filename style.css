@@ -114,3 +114,126 @@ li{
     bottom :800px;
     left: 600px;
 }
+/*основная информация*/
+
+/*footer*/
+.line{
+    width: 1320px;
+    height: 0px;
+    left: 60px;
+    border-width: 1px;
+    border: 2px solid rgba(62, 62, 62, 1)
+}
+
+.background a{
+    text-decoration: none;
+    color: black;
+    font-family: "Kulim Park";
+    font-weight: 300;
+    font-style: Light;
+    font-size: 14px;
+    line-height: 100%;
+}
+
+.column_1_content{
+    font-family: "Kulim Park";
+    font-weight: 300;
+    font-style: Light;
+    font-size: 20px;
+    line-height: 100%;
+}
+
+.column_2_content{
+    font-family: "Kulim Park";
+    font-weight: 300;
+    font-style: Light;
+    font-size: 20px;
+    line-height: 100%;
+}
+
+.column_3_content{
+    font-family: "Kulim Park";
+    font-weight: 300;
+    font-style: Light;
+    font-size: 20px;
+    line-height: 100%;
+}
+
+.column_2{
+    position: relative;
+    left:300px;
+    bottom: 150px;
+}
+
+.column_3{
+    position: relative;
+    left:600px;
+    bottom: 300px;
+}
+
+.adrees{
+    font-family: "Kulim Park";
+    font-weight: 300;
+    font-style: Light;
+    font-size: 12px;
+    line-height: 100%;
+    letter-spacing: 0%;
+}
+
+.design{
+    font-family: "Kulim Park";
+    font-weight: 300;
+    font-style: Light;
+    font-size: 12px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-align: center;
+}
+
+.future{
+    font-family: "Kulim Park";
+    font-weight: 300;
+    font-style: Light;
+    font-size: 12px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-align: center;
+}
+
+.news{
+    font-family: "Kulim Park";
+    font-weight: 300;
+    font-style: Light;
+    font-size: 20px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-align: center;
+}
+
+.vk{
+    width: 62px;
+    height: 33px;
+    border-width: 1px;
+    border-radius: 50px;
+    font-family: "Kulim Park";
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 16px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-align: center;
+}
+
+.tg{
+    width: 117px;
+    height: 33px;
+    border-width: 1px;
+    border-radius: 50px;
+    font-family: "Kulim Park";
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 16px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-align: center;
+}
