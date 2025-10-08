@@ -115,7 +115,138 @@ li{
     left: 600px;
 }
 /*основная информация*/
+.lion{
+    width: 400px;
+    height: 400px;
+    position: relative;
+    bottom: 427px;
+    border-radius: 50px;
+}
 
+.mission{
+    width: 551px;
+    height: 138px;
+    position: relative;
+    bottom: 847px;
+    left: 567px;
+    font-family: "Kulim Park";
+    font-weight: 300;
+    font-style: Light;
+    font-size: 25px;
+    line-height: 100%;
+    letter-spacing: 0%;
+}
+
+.create{
+    width: 651px;
+    height: 138px;
+    position: relative;
+    bottom: 890px;
+    left: 567px;
+    font-family: "Kulim Park";
+    font-weight: 300;
+    font-style: Light;
+    font-size: 20px;
+    line-height: 100%;
+    letter-spacing: 0%;
+}
+
+.come_on_help{
+    width: 751px;
+    height: 66px;
+    background: rgba(188, 94, 40, 1);
+    position: relative;
+    bottom: 841px;
+    left: 560px;
+    border-radius: 50px;
+    font-family: "Kulim Park";
+    font-weight: 300;
+    font-style: Light;
+    font-size: 30px;
+    line-height: 100%;
+    letter-spacing: 0%;
+}
+
+.squares{
+    text-align: center;
+    position: relative;
+    bottom: 730px;
+    right: 400px;
+}
+
+.animals{
+    text-align: center;
+    position: relative;
+    bottom: 730px;
+    right: 400px;
+}
+
+.proekts{
+    text-align: center;
+    position: relative;
+    bottom: 1090px;
+    left: 400px;
+}
+
+.valonters{
+    text-align: center;
+    position: relative;
+        bottom: 1090px;
+    left: 400px;
+}
+
+.number_1{
+    font-family: "Kulim Park";
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 50px;
+    line-height: 100%;
+    letter-spacing: 0%;
+}
+
+.square{
+    font-family: "Kulim Park";
+    font-weight: 300;
+    font-style: Light;
+    font-size: 30px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    position: relative;
+    bottom: 30px;
+}
+
+.animal{
+    font-family: "Kulim Park";
+    font-weight: 300;
+    font-style: Light;
+    font-size: 30px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    position: relative;
+    bottom: 30px;
+}
+
+.proekt{
+    font-family: "Kulim Park";
+    font-weight: 300;
+    font-style: Light;
+    font-size: 30px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    position: relative;
+    bottom: 30px;
+}
+
+.valonter{
+    font-family: "Kulim Park";
+    font-weight: 300;
+    font-style: Light;
+    font-size: 30px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    position: relative;
+    bottom: 30px;
+}
 /*footer*/
 .line{
     width: 1320px;
