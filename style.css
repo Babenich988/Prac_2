@@ -394,7 +394,9 @@ li{
     height: 0px;
     left: 60px;
     border-width: 1px;
-    border: 2px solid rgba(62, 62, 62, 1)
+    border: 2px solid rgba(62, 62, 62, 1);
+    position: relative;
+    bottom: 1000px;
 }
 
 .background a{
@@ -431,16 +433,22 @@ li{
     line-height: 100%;
 }
 
+.column_1{
+    position: relative;
+    left: 20px;
+    bottom: 950px;
+}
+
 .column_2{
     position: relative;
     left:300px;
-    bottom: 150px;
+    bottom: 1100px;
 }
 
 .column_3{
     position: relative;
     left:600px;
-    bottom: 300px;
+    bottom: 1250px;
 }
 
 .adrees{
@@ -476,36 +484,155 @@ li{
     font-family: "Kulim Park";
     font-weight: 300;
     font-style: Light;
+    font-size: 35px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    position: relative;
+    bottom: 1400px;
+    left:1005px;
+}
+
+.line-fot{
+    width: 400px;
+    height: 0px;
+    left: 60px;
+    border-width: 1px;
+    border: 1px solid rgba(62, 62, 62, 1);
+    position: relative;
+    bottom: 1500px;
+    left:1005px;
+}
+
+.email{
+    font-family: "Kulim Park";
+    font-weight: 300;
+    font-style: Light;
+    width: 260px;
     font-size: 20px;
     line-height: 100%;
     letter-spacing: 0%;
-    text-align: center;
+    border:0px solid  white;
+    position: relative;
+    bottom: 1505px;
+    left:1004px;
+}
+
+.okey{
+    position: relative;
+    bottom: 1390px;
+    left:1000px;
+}
+
+.okey_p{
+    font-family: "Kulim Park";
+    font-weight: 300;
+    font-style: Light;
+    font-size: 20px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    position: relative;
+    bottom: 1431px;
+    left:1020px;
 }
 
 .vk{
-    width: 62px;
-    height: 33px;
+    width: 84px;
+    height: 40px;
     border-width: 1px;
     border-radius: 50px;
     font-family: "Kulim Park";
     font-weight: 400;
     font-style: Regular;
-    font-size: 16px;
+    font-size: 24px;
     line-height: 100%;
     letter-spacing: 0%;
     text-align: center;
+    position: relative;
+    bottom: 1700px;
+    left: 1000px;
 }
 
 .tg{
-    width: 117px;
-    height: 33px;
+    width: 150px;
+    height: 40px;
     border-width: 1px;
     border-radius: 50px;
     font-family: "Kulim Park";
     font-weight: 400;
     font-style: Regular;
-    font-size: 16px;
+    font-size: 24px;
     line-height: 100%;
     letter-spacing: 0%;
     text-align: center;
+    position: relative;
+    bottom: 1700px;
+    left: 1050px;
+}
+
+.logo_fot{
+    position: relative;
+    bottom: 1450px;
+    left:50px;
+}
+
+.whh{
+    font-family: "Kulim Park";
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 23px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    position: relative;
+    bottom: 1460px;
+    left:70px;
+}
+
+.line-footer_3{
+    font-family: "Kulim Park";
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 23px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    position: relative;
+    bottom: 1530px;
+    left:130px;
+}
+
+.adrees{
+    width: 381px;
+    height: 28px;
+    position: relative;
+    bottom: 1268px;
+    left: 350px;
+    font-family: "Kulim Park";
+    font-weight: 300;
+    font-style: Light;
+    font-size: 12px;
+    line-height: 100%;
+    letter-spacing: 0%;
+}
+
+.design{
+    font-family: "Kulim Park";
+    font-weight: 300;
+    font-style: Light;
+    font-size: 12px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    position: relative;
+    bottom: 1310px;
+    left:230px;
+}
+
+.future{
+    font-family: "Kulim Park";
+    font-weight: 300;
+    font-style: Light;
+    font-size: 12px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    position: relative;
+    bottom: 1310px;
+    left:340px;
 }
